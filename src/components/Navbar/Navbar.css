@@ -1,0 +1,21 @@
+.Search {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.Search input {
+    margin-top: 20px;
+    width: 200px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+p {
+    margin: 10px;
+    font-size: 12px;
+}
+
